@@ -8,6 +8,7 @@
 * [cyble](https://blog.cyble.com/page/2/)
 * [Android Developer](https://developer.android.com/)
 * [Apple Developer](https://developer.apple.com/)
+* [appknox](https://www.appknox.com/)
 
 ## Vulnerabilities
 * [AndroidVulnerabilities.org](http://androidvulnerabilities.org/)

@@ -16,6 +16,8 @@
 ## Tools
 * [r2flutch](https://github.com/as0ler/r2flutch)
 * [waydro](https://waydro.id/)
+* [Termux](https://termux.com/)
 
 ## CTF
 * [hpAndro1337](http://ctf.hpandro.raviramesh.info/)
+* [jadx](https://github.com/skylot/jadx)

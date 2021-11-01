@@ -9,6 +9,7 @@
 * [Android Developer](https://developer.android.com/)
 * [Apple Developer](https://developer.apple.com/)
 * [appknox](https://www.appknox.com/)
+* [Android Mobile Pentest 101](https://github.com/tsug0d/AndroidMobilePentest101)
 
 ## Vulnerabilities
 * [AndroidVulnerabilities.org](http://androidvulnerabilities.org/)
@@ -18,7 +19,7 @@
 * [waydro](https://waydro.id/)
 * [Termux](https://termux.com/)
 * [reFlutter](https://github.com/ptswarm/reFlutter)
+* [jadx](https://github.com/skylot/jadx)
 
 ## CTF
 * [hpAndro1337](http://ctf.hpandro.raviramesh.info/)
-* [jadx](https://github.com/skylot/jadx)

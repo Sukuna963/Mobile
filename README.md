@@ -20,6 +20,7 @@
 * [Termux](https://termux.com/)
 * [reFlutter](https://github.com/ptswarm/reFlutter)
 * [jadx](https://github.com/skylot/jadx)
+* [Mobile Security Framework](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 
 ## CTF
 * [hpAndro1337](http://ctf.hpandro.raviramesh.info/)

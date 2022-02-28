@@ -10,6 +10,7 @@
 * [Apple Developer](https://developer.apple.com/)
 * [appknox](https://www.appknox.com/)
 * [Android Mobile Pentest 101](https://github.com/tsug0d/AndroidMobilePentest101)
+* [Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
 
 ## Vulnerabilities
 * [AndroidVulnerabilities.org](http://androidvulnerabilities.org/)

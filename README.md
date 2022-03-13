@@ -23,6 +23,7 @@ Smartphone Time-of-Flight Sensors](https://dl.acm.org/doi/pdf/10.1145/3485730.34
 
 ## Vulnerabilities
 * [AndroidVulnerabilities.org](http://androidvulnerabilities.org/)
+* [ZecOps](https://blog.zecops.com/)
 
 ## Tools
 * [r2flutch](https://github.com/as0ler/r2flutch)

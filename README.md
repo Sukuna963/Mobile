@@ -4,6 +4,10 @@
 *Android*
 * [Android Basics: User Interface](https://classroom.udacity.com/courses/ud834)
 
+## System Operation
+* [Nemo Mobile](https://nemomobile.net/)
+* [Android](https://source.android.com/)
+
 ## Learning
 * [cyble](https://blog.cyble.com/page/2/)
 * [Android Developer](https://developer.android.com/)

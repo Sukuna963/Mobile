@@ -19,6 +19,7 @@
 * [LAPD: Hidden Spy Camera Detection using
 Smartphone Time-of-Flight Sensors](https://dl.acm.org/doi/pdf/10.1145/3485730.3485941)
 * [OpenBot](https://github.com/isl-org/OpenBot)
+* [Kivy](https://kivy.org/#home)
 
 ## Vulnerabilities
 * [AndroidVulnerabilities.org](http://androidvulnerabilities.org/)

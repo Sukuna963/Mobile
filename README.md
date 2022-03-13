@@ -16,6 +16,8 @@
 * [appknox](https://www.appknox.com/)
 * [Android Mobile Pentest 101](https://github.com/tsug0d/AndroidMobilePentest101)
 * [Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
+* [LAPD: Hidden Spy Camera Detection using
+Smartphone Time-of-Flight Sensors](https://dl.acm.org/doi/pdf/10.1145/3485730.3485941)
 
 ## Vulnerabilities
 * [AndroidVulnerabilities.org](http://androidvulnerabilities.org/)
